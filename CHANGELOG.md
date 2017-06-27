@@ -1,7 +1,5 @@
 # Changelog
 
-
-
 ## [1.0.0] - 2017-06-20
 ### Added
 - New visual identity by @tylerfortune8.
@@ -24,6 +22,7 @@ translation authors keep things up-to-date.
 
 
 [Unreleased]: 
+
 Added for new features.
 Changed for changes in existing functionality.
 Deprecated for soon-to-be removed features.
