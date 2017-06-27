@@ -10,22 +10,20 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - New visual identity by @tylerfortune8.
 - Version navigation.
 
-
 ### Changed
 - Start using "changelog" over "change log" since it's the common usage.
 - Start versioning based on the current English version at 0.3.0 to help
 translation authors keep things up-to-date.
 - Rewrite "What makes unicorns cry?" section.
 
-
 ### Removed
 - Section about "changelog" vs "CHANGELOG".
 
-## [0.3.0] - 2015-12-03
-### Added
-- RU translation from @aishek.
-- pt-BR translation from @tallesl.
-- es-ES translation from @ZeliosAriex.
+### Deprecated
+- Section about "changelog" vs "CHANGELOG".
+
+### Security
+- Section about "changelog" vs "CHANGELOG".
 
 
 [Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
