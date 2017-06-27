@@ -1,23 +1,23 @@
 # Changelog
 
 ## [1.0.0] - 2017-06-20
-### Added
+** Added ** 
 - New visual identity by @tylerfortune8.
 - Version navigation.
 
-### Changed
+** Changed **
 - Start using "changelog" over "change log" since it's the common usage.
 - Start versioning based on the current English version at 0.3.0 to help
 translation authors keep things up-to-date.
 - Rewrite "What makes unicorns cry?" section.
 
-### Removed
+** Removed **
 - Section about "changelog" vs "CHANGELOG".
 
-### Deprecated
+** Deprecated **
 - Section about "changelog" vs "CHANGELOG".
 
-### Security
+** Security **
 - Section about "changelog" vs "CHANGELOG".
 
 
