@@ -26,9 +26,9 @@ iTextSharp5.5.9.0
  * itextsharp.pdfa.dll
  * itextsharp.xtra.dll
 
-Font
+## Font
  * [THSarabun-PSK](https://github.com/ETDA/e-TaxInvoice-PDFgen/blob/master/Font/th-sarabun-psk.zip)
-    For font installation instruction please read installation and user guide
+   รายละเอียดการลง font สามารถอ่านได้จากคู่มือโปรแกรมจัดเตรียมใบกำกับภาษีอิเล็กทรอนิกส์ในรูปแบบ PDF/A-3 (PC)
 
 ## License 
 [GNU Affero General Public License v3.0](https://github.com/ETDA/e-TaxInvoice-PDFgen/blob/master/LICENSE)
