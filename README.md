@@ -20,7 +20,7 @@ Windows x64 : [โปรแกรมจัดเตรียมใบกำก�
 หรือตรวจสอบ version ทั้งหมดได้จากหน้า [release page](https://github.com/ETDA/e-TaxInvoice-PDFgen/releases)
 
 ## Document
-สามารถ download คู่มือได้จาก [ คู่มือโปรแกรมจัดเตรียมใบกำกับภาษีอิเล็กทรอนิกส์ในรูปแบบ PDF/A-3 (PC) ](http://teda.th/files/etaxdocuments/eTaxInvoice_PDF_A3_pc.pdf)  
+สามารถ download ได้จาก [ คู่มือโปรแกรมจัดเตรียมใบกำกับภาษีอิเล็กทรอนิกส์ในรูปแบบ PDF/A-3 (PC) ](http://teda.th/files/etaxdocuments/eTaxInvoice_PDF_A3_pc.pdf)  
 
 ## Dependency 
 iTextSharp5.5.9.0 
@@ -29,7 +29,8 @@ iTextSharp5.5.9.0
  * itextsharp.xtra.dll
 
 ## Font
- * [THSarabun-PSK](https://github.com/ETDA/e-TaxInvoice-PDFgen/blob/master/Font/th-sarabun-psk.zip)
+ * สามารถ download ได้จาก [THSarabun-PSK](https://github.com/ETDA/e-TaxInvoice-PDFgen/blob/master/Font/th-sarabun-psk.zip)
+ 
    รายละเอียดการลง font สามารถอ่านได้จาก[ คู่มือโปรแกรมจัดเตรียมใบกำกับภาษีอิเล็กทรอนิกส์ในรูปแบบ PDF/A-3 (PC) ](http://teda.th/files/etaxdocuments/eTaxInvoice_PDF_A3_pc.pdf)  
 
 ## License 
