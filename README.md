@@ -1,7 +1,7 @@
 ![Alt text](https://raw.githubusercontent.com/ETDA/e-TaxInvoice-PDFgen/master/eTaxInvoicePdfGenerator/icon_AppETax-01.png)
 
 
-## e-Tax Invoice by Email - PDF Generator on PC โปรแกรมสร้างใบกำกับภาษีอิเล็กทรอนิกส์
+## e-Tax Invoice by Email - PDF Generator on PC 
 
    e-Tax Invoice by Email - PDF Generator on PC  มิติใหม่ของการสร้างใบกำกับภาษีอิเล็กทรอนิกส์ โดยอำนวยความสะดวกให้ผู้ประกอบการ สามารถสร้างใบกำกับภาษีอิเล็กทรอนิกส์ เพื่อสนับสนุนโครงการ e-Tax Invoice by Email ที่เป็นความร่วมมือระหว่าง สพธอ.และกรมสรรพากร 
 
