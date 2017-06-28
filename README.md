@@ -17,7 +17,7 @@
 ## Latest Release
 Windows x64 : [โปรแกรมจัดเตรียมใบกำกับภาษีอิเล็กทรอนิกส์ในรูปแบบ PDF/A-3 สำหรับติดตั้งที่เครื่อง PC](https://github.com/ETDA/e-TaxInvoice-PDFgen/releases/download/0.1.0/e-TaxInvoice-PDFgen0.1.0.zip)
 
-Or release page [release page](https://github.com/ETDA/e-TaxInvoice-PDFgen/releases)
+หรือตรวจสอบ version ทั้งหมดได้จากหน้า [release page](https://github.com/ETDA/e-TaxInvoice-PDFgen/releases)
 
 ## Document
 สามารถ download คู่มือได้จาก [ คู่มือโปรแกรมจัดเตรียมใบกำกับภาษีอิเล็กทรอนิกส์ในรูปแบบ PDF/A-3 (PC) ](http://teda.th/files/etaxdocuments/eTaxInvoice_PDF_A3_pc.pdf)  
