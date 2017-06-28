@@ -25,7 +25,7 @@ Windows x64 : [โปรแกรมจัดเตรียมใบกำก�
 
 [1.0.0] - 2017-06-20
 **Added** 
-- e-Tax Invoice by Email – PDF  Genarator on PC baseline version 
+- e-Tax Invoice by TeDA - PDF Generator on PC baseline version 
 
 ## Document
 สามารถ download ได้จาก [ คู่มือโปรแกรมจัดเตรียมใบกำกับภาษีอิเล็กทรอนิกส์ในรูปแบบ PDF/A-3 (PC) ](http://teda.th/files/etaxdocuments/eTaxInvoice_PDF_A3_pc.pdf)  
