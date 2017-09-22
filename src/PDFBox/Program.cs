@@ -18,7 +18,7 @@ namespace PDFBox
         {           
             string input = "C:\\Users\\pragasit-ETDA\\Documents\\Visual Studio 2015\\Projects\\PDFBox\\PDFBox\\resource\\in\\test.pdf";
 
-            
+            /*addtext*/
             byte[] inputFile = File.ReadAllBytes(input);
             MemoryStream ms = new MemoryStream(inputFile);
 
